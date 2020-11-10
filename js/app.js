@@ -1,0 +1,1 @@
+alert('Git revert means undo the commit');
