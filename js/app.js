@@ -1,0 +1,1 @@
+alert('Git revert SHA means undo the commit not go back to that commit');
